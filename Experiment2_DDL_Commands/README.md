@@ -1,4 +1,6 @@
 # Experiment 2: DDL Commands
+# Name : Ramya.P
+# Reg no : 212223240137
 
 ## AIM
 To study and implement DDL commands and different types of constraints.
